@@ -1,0 +1,25 @@
+userName: ashishjha_bCWNc4
+accessKey: e3rNxYa2pPhyrkGo1QzR
+platforms:
+  - os: OS X
+    osVersion: Catalina
+    browserName: Chrome
+    browserVersion: 122.0
+  - os: Windows
+    osVersion: 8.1
+    browserName: Edge
+    browserVersion: 109.0
+  - os: Windows
+    osVersion: 8
+    browserName: Firefox
+    browserVersion: 115.0
+  - os: OS X
+    osVersion: Sonoma
+    browserName: Chrome
+    browserVersion: 122.0
+  - os: Windows
+    osVersion: 11
+    browserName: Chrome
+    browserVersion: 122.0
+buildName: browserstack-build-1
+projectName: BrowserStack Sample
